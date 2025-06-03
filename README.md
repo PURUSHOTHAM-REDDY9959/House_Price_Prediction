@@ -101,3 +101,8 @@ Internship: Next24tech Technology & Services
 
 # OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/feb9a280-3844-4feb-be69-05b575fbddf3)
+
+
+![Image](https://github.com/user-attachments/assets/1b9fe273-c1cb-4768-9937-4f0d418fa553)
+
