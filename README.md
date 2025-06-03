@@ -2,7 +2,7 @@
 
 # 🏠 House Price Prediction System
 
-## DESCRIPTION
+## DESCRIPTION :
 
 This project presents a **House Price Prediction System** using **Linear Regression**, built with Python and scikit-learn. The goal is to predict house prices based on a variety of features such as median income, housing median age, number of rooms, location, and more. The model is trained on a cleaned and preprocessed version of the **California housing dataset**.
 
