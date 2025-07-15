@@ -65,7 +65,7 @@ RMSE: 68372.48
 
 
 # 💾 Saving the Model :
-The model is saved as a .pkl file using joblib, allowing you to reuse it without retraining:
+The model is saved as a .pkl file using joblib, allowing us to reuse it without retraining:
 joblib.dump(model, "models/house_price_model.pkl")
 
 
@@ -73,9 +73,12 @@ joblib.dump(model, "models/house_price_model.pkl")
 
 
 ├── housing.csv
+
 ├── house_price_prediction.py
+
 ├── models/
 │   └── house_price_model.pkl
+
 └── README.md
 
 # How to run :
